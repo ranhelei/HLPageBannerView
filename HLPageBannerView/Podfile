@@ -1,0 +1,16 @@
+target 'HLPageBannerView' do
+
+pod 'Masonry'
+pod 'SDWebImage'
+#pod 'AFNetworking'
+#pod 'JSONModel'
+
+  target 'HLPageBannerViewTests' do
+    inherit! :search_paths
+  end
+
+  target 'HLPageBannerViewUITests' do
+    inherit! :search_paths
+  end
+
+end

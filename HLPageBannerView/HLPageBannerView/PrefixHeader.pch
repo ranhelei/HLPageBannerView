@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  HLPageBannerView
+//
+//  Created by 冉合磊 on 2019/11/12.
+//  Copyright © 2019 冉合磊. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Masonry.h>
+#import <SDWebImage.h>
+#endif /* PrefixHeader_pch */

@@ -1,0 +1,28 @@
+
+[
+{
+    "width": 600,
+    "height": 339,
+    "url": "https://img.rr.tv/video/20180530/o_1527644631400.png"
+},
+{
+    "width": 2320,
+    "height": 3088,
+    "url": "https://img.rr.tv/ugc/20191112/o_1573541614858.jpg"
+},
+{
+    "url": "http://img.rr.tv/post/20191111/o_1573445841667.jpg",
+    "width": 1080,
+    "height": 603
+},
+{
+    "url": "http://img.rr.tv/post/20191111/o_1573445711276.jpg",
+    "width": 1080,
+    "height": 1288
+}
+,{
+    "url": "http://img.rr.tv/post/20191111/o_1573445712881.jpg",
+    "width": 970,
+    "height": 1000
+}
+]
